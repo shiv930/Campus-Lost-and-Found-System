@@ -37,7 +37,7 @@ A full-stack web application for managing lost and found items within a campus. 
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/lost-found.git
+git clone https://github.com/shiv930/Campus-Lost-and-Found-System/tree/main
 cd lost-found
 npm install
 npm run dev
